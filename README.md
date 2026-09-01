@@ -8,96 +8,111 @@ Link Portofolio Comparison of current and last year’s metrics in one Excel cha
 <img width="734" height="373" alt="image" src="https://github.com/user-attachments/assets/a6c01289-29eb-4cb4-8713-492b9e57e288" />
 </p>
 
-<p align="center"> 
-<img width="816" height="320" alt="image" src="https://github.com/user-attachments/assets/227b7de4-09ec-44cb-b4ae-2d42d8d364db" />
-</p>
-
 ### 1. Executive Summary & Business Context 
-This project aims to analyze business performance by comparing key metrics between the current year and the previous year. I built this interactive dashboard to provide stakeholders with instant visibility into the company's financial and operational health. This dashboard is designed to answer the critical business question: "Is this year's strategy more effective than last year's in terms of revenue, transaction efficiency, and product conversion?"
+Proyek ini bertujuan untuk menganalisis performa bisnis dengan membandingkan metrik utama antara tahun berjalan (Current Year) dan tahun sebelumnya (Previous Year). Saya membangun dashboard interaktif ini untuk memberikan visibilitas instan kepada pemangku kepentingan mengenai kesehatan finansial dan operasional perusahaan.
 
-### 2. Deep Dive Analysis & Key Findings (Detailed Version) 
-#### A. Average Transactions On The Dashboard Compared To Current and Previous Customers. 
+Dashboard ini dirancang untuk menjawab pertanyaan bisnis kritis: "Apakah strategi tahun ini lebih efektif dibandingkan tahun lalu dalam hal pendapatan, efisiensi transaksi, dan konversi produk?". 
+
+### 2. Analisis Mendalam & Temuan Utama (Versi Rinci)
+#### A. Rata-rata transaksi pada dasbor dibandingkan dengan pelanggan saat ini dan pelanggan sebelumnya.
 <p align="center"> 
 <img width="622" height="461" alt="image" src="https://github.com/user-attachments/assets/9b0dedce-99b9-4f8f-9559-2173c787edc8" />.
 </p>
 
-Dashboard View AVG Check. The main dashboard demonstrates a fundamental shift in the business model this year. 
-- Exponential Growth in Annual Performance: The Average Check metric showed very positive growth of +59% year-over-year (YoY). The average transaction value increased from IDR 1,330,000 in the previous period to IDR 2,117,000 in the current period. This indicates the success of the premium pricing strategy or increased customer purchasing power per transaction.
+Dashboard utama menunjukkan adanya pergeseran fundamental dalam model bisnis tahun ini.
+-	Pertumbuhan Eksponensial Performa Tahunan:
+Metrik Average Check menunjukkan pertumbuhan yang sangat positif sebesar +59% secara Year-over-Year (YoY). Angka rata-rata transaksi meningkat dari Rp1.330.000 pada periode sebelumnya menjadi Rp2.117.000 pada periode berjalan. Hal ini mengindikasikan keberhasilan strategi penetapan harga premium atau peningkatan daya beli pelanggan per transaksi.
 
-- Direct Correlation with Revenue Growth: This 59% increase in average transaction value was the primary driver of total revenue growth, which significantly increased by +100% (from IDR 949.4 million to IDR 1.89 billion). Data shows that although sales volume (Sales Quantity) only increased by 25%, the surge in value per transaction (Avg Check) had a financial impact twice as large. 
+- Korelasi Langsung dengan Pertumbuhan Revenue:  
+Kenaikan nilai transaksi rata-rata sebesar 59% ini menjadi motor utama pendorong total Revenue yang tumbuh signifikan sebesar +100% (dari Rp949,4 Juta menjadi Rp1,89 Miliar). Data membuktikan bahwa meskipun volume penjualan (Sales Quantity) hanya naik 25%, pelonjakan nilai per transaksi (Avg Check) memberikan dampak finansial dua kali lipat lebih besar.
 
-- Seasonal Volatility and Recovery: Through monthly chart analysis, it was found that Avg Check reached its lowest point in June at IDR 350,000. However, there was an aggressive recovery starting in September (Rp835,000) and peaking in October at Rp925,000. This end-of-year surge demonstrates the effectiveness of seasonal promotions in encouraging customers to make higher purchases.
+-	Volatilitas Musiman dan Recovery:  
+Melalui analisis grafik bulanan, ditemukan bahwa Avg Check sempat menyentuh titik terendah pada bulan Juni di angka Rp350.000. Namun, terjadi recovery agresif mulai bulan September (Rp835.000) hingga puncaknya di bulan Oktober sebesar Rp925.000. Lonjakan akhir tahun ini menunjukkan efektivitas promosi musiman dalam mendorong pelanggan melakukan pembelanjaan dengan nominal lebih tinggi.
 
-- Efficiency vs. Volume: The current business strategy appears to be more focused on "transaction quality" than "quantity," with the company successfully generating greater profits from each incoming customer compared to last year. 
+-	Efisiensi vs Volume:  
+Strategi bisnis saat ini terlihat lebih fokus pada "kualitas transaksi" daripada "kuantitas", di mana perusahaan berhasil mendapatkan keuntungan lebih besar dari setiap pelanggan yang masuk dibandingkan tahun lalu.
 
-#### B. Sales Quantity by Month Dashboard: Seasonal and Momentum Analysis 
+
+#### B. Dasbor Kuantitas Penjualan per Bulan: Analisis Musiman dan Momentum 
 <p align="center"> 
 <img width="631" height="469" alt="image" src="https://github.com/user-attachments/assets/6e3fdb1f-c559-463f-9558-b76bd1465162" />.
 </p>
 
-Dashboard Sales Quantity. This visual analyzes the effectiveness of product distribution in physical units. 
-- Deep Dive Analysis: Total sales volume for the current period reached 2,599 units, indicating a very healthy growth of +25% compared to the previous period (2,080 4 units). The highest sales peak consistently occurred in September with a volume of 1,110 units, followed by August (967 units).
-  
-- Key Findings: A significant upward trend occurred in the third quarter (Q3). The success of surpassing 1,000 units in September indicates that promotional strategies and stock availability during that period were closely aligned with market demand.
+Visual ini membedah efektivitas distribusi produk dalam satuan unit fisik.
+-	Analisis Mendalam:  
+Total volume penjualan pada periode berjalan mencapai 2.599 unit, menunjukkan pertumbuhan yang sangat sehat sebesar +25% dibandingkan periode sebelumnya (2.080 unit). Puncak penjualan tertinggi secara konsisten terjadi pada bulan September dengan volume mencapai 1.110 unit, diikuti oleh bulan Agustus (967 unit).
 
-#### C. Visual Revenue Dashboard: Monthly Profit 
+-	Temuan Utama: 
+Terjadi tren kenaikan yang signifikan pada kuartal ketiga (Q3). Keberhasilan melampaui angka 1.000 unit di bulan September mengindikasikan bahwa strategi promosi atau ketersediaan stok pada periode tersebut sangat selaras dengan permintaan pasar.
+
+
+#### C. Tampilan Visual Revenue : Gap Performa Bulanan
 <p align="center"> 
 <img width="626" height="463" alt="image" src="https://github.com/user-attachments/assets/9d8fec13-ba58-4d3b-95ca-7415b09619d3" />.
 </p>
 
-Dashboard Revenue. This line chart tracks the monetary value generated across all sales channels. 
-- Deep Dive Analysis: Revenue performance recorded an impressive 100% year-on
-year growth. Revenue surged from IDR 949,400,000 to IDR 1,898,654,000. Monthly analysis shows that the highest revenue was achieved in October at IDR 976,800,000, representing nearly 50% of total annual revenue.
+Grafik garis ini melacak nilai moneter yang dihasilkan dari seluruh kanal penjualan.
+-	Analisis Mendalam:  
+Performa pendapatan mencatatkan pencapaian luar biasa dengan pertumbuhan sebesar +100% YoY. Pendapatan melonjak dari Rp949.400.000 menjadi Rp1.898.654.000. Analisis bulanan menunjukkan pendapatan tertinggi diraih pada bulan Oktober sebesar Rp976.800.000, yang merupakan hampir 50% dari total pendapatan tahunan.
 
-- Key Findings: Business scalability is very high. The fact that revenue grew 100% 
-while unit volume only grew 25% indicates improved pricing efficiency or a shift in product mix to more premium categories (high-ticket items). 
+-	Temuan Utama:  
+Skalabilitas bisnis sangat tinggi. Fakta bahwa pendapatan tumbuh 100% sementara volume unit hanya tumbuh 25% membuktikan adanya peningkatan efisiensi harga atau pergeseran campuran produk ke kategori yang lebih premium (high-ticket items).
+
 
 #### D. Product Distribution Imbalance Visual Dashboard
 <p align="center"> 
 <img width="631" height="467" alt="image" src="https://github.com/user-attachments/assets/918c3ee8-249d-40b2-b0de-8819cef2a7a5" />
 </p>
 
-Dashboard Product.
-Using a Radar Chart, this visual maps the contribution balance of five major product categories. 
-- Deep Dive Analysis: Product B and Product C emerged as dominant contributors, each 
-holding a 27% share. Conversely, Product A experienced a -5% growth contraction and currently contributes only 15% to the total portfolio.
+Menggunakan Radar Chart, visual ini memetakan keseimbangan kontribusi dari lima kategori produk utama.
+-	Analisis Mendalam:  
+Product B dan Product C muncul sebagai kontributor dominan dengan masing-masing memegang pangsa sebesar 27%. Sebaliknya, Product A mengalami kontraksi pertumbuhan sebesar -5% dan saat ini hanya berkontribusi sebesar 15% terhadap total portofolio.
 
-- Key Findings: A distribution imbalance exists. Dependence on Products B and C is very 
-high. The decline in Product A needs to be immediately evaluated to determine whether it is due to the end of its product life cycle or a loss of competitiveness to competitors in the same category.
+-	Temuan Utama:  
+Terjadi ketidakseimbangan distribusi (Imbalance). Ketergantungan pada Product B dan C sangat tinggi. Penurunan pada Product A perlu segera dievaluasi, apakah disebabkan oleh siklus hidup produk yang berakhir atau kalah bersaing dengan kompetitor di kategori yang sama.
 
 #### E. Products Distribution Imbalance Dashboard 
 <p align="center"> 
 <img width="625" height="466" alt="image" src="https://github.com/user-attachments/assets/24dcb24d-2c1c-41cc-9fa0-95bbacc78104" />
 </p>
 
-Dashboard Conversion. This visual demonstrates the company's ability to convert market potential (Leads) into real transactions. 
-- Deep Dive Analysis: The conversion rate increased impressively by +34%, rising from 51% to 69% in the current period. Despite the increase in Open Leads to 2,249, the sales team managed to close 1,550 transactions (Closed Leads).
-  
-- Key Findings: The increase in conversion to 69% indicates a significant improvement in lead quality and the sales team's negotiation effectiveness. The company successfully handled a larger volume of leads with a higher closing ratio compared to the previous year. 
+Visual ini menunjukkan kemampuan perusahaan dalam mengubah potensi pasar (Leads) menjadi transaksi riil.
+-	Analisis Mendalam:  
+Tingkat konversi meningkat secara impresif sebesar +34%, naik dari 51% menjadi 69% pada periode berjalan. Meskipun jumlah Open Leads meningkat menjadi 2.249, tim sales berhasil menutup transaksi (Closed Leads) sebanyak 1.550 kasus.
+
+-	Temuan Utama:  
+Peningkatan konversi ke angka 69% menunjukkan perbaikan signifikan dalam kualitas leads atau efektivitas tim penjualan dalam melakukan negosiasi. Perusahaan berhasil menangani volume prospek yang lebih besar dengan rasio penutupan yang lebih tinggi dibandingkan tahun sebelumnya.
 
 ### 3. Strategic Recommendations & Business Impact 
-Based on a comparative analysis between the Current Year and the Previous Year, the following are strategic recommendations designed to maintain growth momentum while improving operational efficiency: 
+Berdasarkan analisis perbandingan antara Current Year dan Previous Year, berikut adalah rekomendasi strategis yang dirancang untuk menjaga momentum pertumbuhan sekaligus memperbaiki efisiensi operasional:
 
-A. Optimizing Pricing Structure & Profit Margin 
-- Recommendation: Maintain the strategy focused on increasing Average Check, which has proven successful in increasing revenue by 100%. The company should introduce  a loyalty program that provides incentives for customers with transaction values above IDR 2,000,000.
-  
-- Business Impact: This strategy will stabilize the average transaction value at millions of Rupiah, allowing the company to continue achieving high revenue targets even if unit sales volume (Sales Quantity) fluctuates in the future. 
+A. Optimalisasi Struktur Harga & Margin Profit
+-	Rekomendasi:  
+Mempertahankan strategi fokus pada peningkatan Average Check yang telah terbukti sukses meningkatkan pendapatan sebesar 100%. Perusahaan harus mulai memperkenalkan program loyalty yang memberikan insentif bagi pelanggan dengan nilai transaksi di atas Rp2.000.000.
 
-B. Product Portfolio Diversification 
-- Recommendation: Re-evaluate Product A, which is experiencing a decline in performance (-5%) and begin shifting marketing resources to support Products B and C, which are market favorites. 
+-	Business Impact:  
+Strategi ini akan menstabilkan nilai transaksi rata-rata di angka jutaan Rupiah, sehingga perusahaan tetap bisa mencapai target pendapatan tinggi meskipun volume penjualan unit (Sales Quantity) mengalami fluktuasi di masa depan.
 
-- Business Impact: By balancing contributions between products (reducing imbalance), the company will have stronger business resilience. Reliance on just one or two products is very risky if market trends change suddenly. 
+B. Diversifikasi Portofolio Produk
+-	Rekomendasi:  
+Melakukan re-evaluasi terhadap Product A yang mengalami penurunan performa (-5%) dan mulai mengalihkan sumber daya pemasaran untuk mendukung Product B dan Product C yang menjadi primadona pasar.
+-	Business Impact:  
+Dengan menyeimbangkan kontribusi antar produk (mengurangi imbalance), perusahaan akan memiliki ketahanan bisnis yang lebih kuat. Ketergantungan pada satu atau dua produk saja sangat berisiko jika tren pasar berubah secara mendadak.
 
-C. Sales Funnel Efficiency (Sales Force Automation) 
-- Recommendation: Given that the conversion rate has reached 69%, the next focus should be to accelerate lead-to-close time. The company needs to adopt a more sophisticated CRM system to manage the increasing volume of Open Leads, which has now reached 2,249 records.
-  
-- Business Impact: Improving the operational efficiency of the sales team will reduce customer acquisition costs and ensure that no potential revenue from thousands of incoming leads is wasted. 
+C. Efisiensi Funnel Penjualan (Sales Force Automation)
+-	Rekomendasi:  
+Mengingat tingkat konversi sudah mencapai 69%, fokus selanjutnya adalah mempercepat durasi penutupan transaksi (lead-to-close time). Perusahaan perlu mengadopsi sistem CRM yang lebih canggih untuk mengelola kenaikan volume Open Leads yang kini mencapai 2.249 data.
+-	Business Impact:  
+Peningkatan efisiensi operasional tim penjualan akan menurunkan biaya akuisisi pelanggan (Customer Acquisition Cost) dan memastikan tidak ada potensi pendapatan yang terbuang dari ribuan prospek yang masuk.
 
-D. Seasonal Trend-Based Stock & Logistics Planning 
-- Recommendation: Use peak sales data in August and September as the basis for inventory planning for next year. The logistics team must ensure maximum product availability at the beginning of the third quarter (Q3). 
-
-- Business Impact: Avoid potential losses due to out-of-stocks during periods of high demand, which will ultimately maximize market absorption and improve customer satisfaction. 
+D. Perencanaan Stok & Logistik Berbasis Tren Musiman
+-	Rekomendasi:  
+Menggunakan data puncak penjualan di bulan Agustus dan September sebagai dasar perencanaan stok (inventory planning) untuk tahun depan. Tim logistik harus memastikan ketersediaan produk maksimal pada awal kuartal ketiga (Q3).
+-	Business Impact:  
+Menghindari potensi kerugian akibat kehabisan stok (out-of-stock) pada periode permintaan tinggi, yang pada akhirnya akan memaksimalkan penyerapan pasar dan meningkatkan kepuasan pelanggan.
 
 ### 4. Conclusion 
-This interactive dashboard provides instant visibility into the company's current excellent financial health, as evidenced by +100% revenue growth and a surge in conversion efficiency of 69%. Although operational unit volume only grew 25%, the success in increasing average transaction value (Avg Check) by 59% has been a key differentiator between this year's performance and the previous year. By implementing the strategic recommendations above, management now has data-driven guidance for more measured business expansion, minimizing the risk of product imbalance, and ensuring long-term profitability. 
+Dashboard interaktif ini memberikan visibilitas instan bahwa kesehatan finansial perusahaan saat ini berada dalam kondisi prima, yang ditandai dengan pertumbuhan pendapatan sebesar +100% dan efisiensi konversi yang melonjak hingga 69%.
+
+Meskipun secara operasional volume unit hanya tumbuh 25%, keberhasilan dalam meningkatkan nilai transaksi rata-rata (Avg Check) sebesar 59% telah menjadi faktor pembeda utama antara performa tahun ini dan tahun sebelumnya. Dengan menjalankan rekomendasi strategis di atas, manajemen kini memiliki navigasi berbasis data untuk melakukan ekspansi bisnis yang lebih terukur, meminimalkan risiko ketidakseimbangan produk, dan memastikan keberlanjutan profitabilitas jangka panjang.
 
