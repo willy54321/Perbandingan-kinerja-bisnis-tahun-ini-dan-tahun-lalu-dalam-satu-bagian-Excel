@@ -1,6 +1,6 @@
-# Comparison of business performance this year and last year in one Excel section
+# Perbandingan kinerja bisnis tahun ini dan tahun lalu dalam satu bagian Excel
 
-Link Portofolio Comparison of current and last year’s metrics in one Excel chart.xlsx = 
+Link Portofolio Perbandingan kinerja bisnis tahun ini dan tahun lalu .xlsx = 
 
 [Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCFLviImk1uR56nPpMBMX86Ac7LfZO5Ub31-Ij8WL6M3GU)
 
@@ -8,7 +8,7 @@ Link Portofolio Comparison of current and last year’s metrics in one Excel cha
 <img width="734" height="373" alt="image" src="https://github.com/user-attachments/assets/a6c01289-29eb-4cb4-8713-492b9e57e288" />
 </p>
 
-### 1. Executive Summary & Business Context 
+### 1. Ringkasan Eksekutif & Konteks Bisnis
 Proyek ini bertujuan untuk menganalisis performa bisnis dengan membandingkan metrik utama antara tahun berjalan (Current Year) dan tahun sebelumnya (Previous Year). Saya membangun dashboard interaktif ini untuk memberikan visibilitas instan kepada pemangku kepentingan mengenai kesehatan finansial dan operasional perusahaan.
 
 Dashboard ini dirancang untuk menjawab pertanyaan bisnis kritis: "Apakah strategi tahun ini lebih efektif dibandingkan tahun lalu dalam hal pendapatan, efisiensi transaksi, dan konversi produk?". 
@@ -32,7 +32,6 @@ Melalui analisis grafik bulanan, ditemukan bahwa Avg Check sempat menyentuh titi
 -	Efisiensi vs Volume:  
 Strategi bisnis saat ini terlihat lebih fokus pada "kualitas transaksi" daripada "kuantitas", di mana perusahaan berhasil mendapatkan keuntungan lebih besar dari setiap pelanggan yang masuk dibandingkan tahun lalu.
 
-
 #### B. Dasbor Kuantitas Penjualan per Bulan: Analisis Musiman dan Momentum 
 <p align="center"> 
 <img width="631" height="469" alt="image" src="https://github.com/user-attachments/assets/6e3fdb1f-c559-463f-9558-b76bd1465162" />.
@@ -45,7 +44,6 @@ Total volume penjualan pada periode berjalan mencapai 2.599 unit, menunjukkan pe
 -	Temuan Utama: 
 Terjadi tren kenaikan yang signifikan pada kuartal ketiga (Q3). Keberhasilan melampaui angka 1.000 unit di bulan September mengindikasikan bahwa strategi promosi atau ketersediaan stok pada periode tersebut sangat selaras dengan permintaan pasar.
 
-
 #### C. Tampilan Visual Revenue : Gap Performa Bulanan
 <p align="center"> 
 <img width="626" height="463" alt="image" src="https://github.com/user-attachments/assets/9d8fec13-ba58-4d3b-95ca-7415b09619d3" />.
@@ -57,7 +55,6 @@ Performa pendapatan mencatatkan pencapaian luar biasa dengan pertumbuhan sebesar
 
 -	Temuan Utama:  
 Skalabilitas bisnis sangat tinggi. Fakta bahwa pendapatan tumbuh 100% sementara volume unit hanya tumbuh 25% membuktikan adanya peningkatan efisiensi harga atau pergeseran campuran produk ke kategori yang lebih premium (high-ticket items).
-
 
 #### D. Product Distribution Imbalance Visual Dashboard
 <p align="center"> 
@@ -111,7 +108,7 @@ Menggunakan data puncak penjualan di bulan Agustus dan September sebagai dasar p
 -	Business Impact:  
 Menghindari potensi kerugian akibat kehabisan stok (out-of-stock) pada periode permintaan tinggi, yang pada akhirnya akan memaksimalkan penyerapan pasar dan meningkatkan kepuasan pelanggan.
 
-### 4. Conclusion 
+### 4. Kesimpulan
 Dashboard interaktif ini memberikan visibilitas instan bahwa kesehatan finansial perusahaan saat ini berada dalam kondisi prima, yang ditandai dengan pertumbuhan pendapatan sebesar +100% dan efisiensi konversi yang melonjak hingga 69%.
 
 Meskipun secara operasional volume unit hanya tumbuh 25%, keberhasilan dalam meningkatkan nilai transaksi rata-rata (Avg Check) sebesar 59% telah menjadi faktor pembeda utama antara performa tahun ini dan tahun sebelumnya. Dengan menjalankan rekomendasi strategis di atas, manajemen kini memiliki navigasi berbasis data untuk melakukan ekspansi bisnis yang lebih terukur, meminimalkan risiko ketidakseimbangan produk, dan memastikan keberlanjutan profitabilitas jangka panjang.
